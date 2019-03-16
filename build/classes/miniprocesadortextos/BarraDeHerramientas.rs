@@ -1,0 +1,2 @@
+procesadorTextos.BarraDeHerramientas
+procesadorTextos.BarraDeHerramientas$EventosBarraHerramientas

@@ -1,0 +1,2 @@
+procesadorTextos.BarraDeMenus$EventosMenu
+procesadorTextos.BarraDeMenus
